@@ -1,4 +1,5 @@
-# run.py
+"""This module launches the application."""
+
 from app import app
 
 if __name__ == '__main__':
